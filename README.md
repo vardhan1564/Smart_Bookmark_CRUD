@@ -25,4 +25,10 @@ A simple full-stack application to save and manage your favorite website links. 
 1. Open a terminal in the `frontend` folder.
 2. Install dependencies:
    ```bash
-   npm run dev
+   npm install
+
+### 3. Start the App
+      ```bash
+      npm run dev
+
+### 4. Open browser at: http://localhost:5173
