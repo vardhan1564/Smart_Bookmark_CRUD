@@ -28,7 +28,7 @@ A simple full-stack application to save and manage your favorite website links. 
    npm install
 
 ### 3. Start the App
-      ```bash
+      
       npm run dev
 
 ### 4. Open browser at: http://localhost:5173
