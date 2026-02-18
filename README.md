@@ -25,6 +25,8 @@ A simple full-stack application to save and manage your favorite website links. 
 1. Open a terminal in the `frontend` folder.
 2. Install dependencies:
    ```bash
+   npm install react-router-dom
+   npm install axios
    npm install
 
 ### 3. Start the App
